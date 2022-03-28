@@ -4,17 +4,8 @@
 Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading screen, home icon, reply ping color, and more)
 
 Original Web Page: https://goose-nest.github.io/GT-RevertRebrand/
+
 Original Github Page: https://github.com/goose-nest/GT-RevertRebrand/
-
-<details>
-<summary><strong>Screenshots</strong></summary>
-
-### Original (Without Theme)
-![Screenshot: Original (Without Theme)](https://raw.githubusercontent.com/JustWavey/GT-RevertRebrand/main/screenshots/message_original.png)
-### With Revert Rebrand
-![Screenshot: With Revert Rebrand](https://raw.githubusercontent.com/JustWavey/GT-RevertRebrand/main/screenshots/message_revert.png)
-</details>
-
 <details>
 <summary><strong>Installation</strong></summary>
 
